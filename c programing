@@ -1,4 +1,4 @@
-INPUT:
+//CODE:
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
@@ -80,4 +80,23 @@ int main(){
 
 
 
-OUTPUT:
+
+
+RESULT:
+
+INPUT
+s
+OUTPUT
+You won!
+You chose s and computer chose w
+INPUT
+w
+OUTPUT
+You Lose!
+You chose w and computer chose s
+INPUT
+g
+OUTPUT
+Game draw!
+You chose g and computer chose g
+
